@@ -11,3 +11,11 @@
 - Just have fun
 
 ![GIF](https://media.giphy.com/media/mROSEQn8QqLSlozjlq/giphy.gif)
+
+
+#### TODO(VLAD 10/31) 
+- We should have an examples repo or directory, this'll serve as a way to quickly trying out cool project concepts
+  - Audio generation
+  - LLM call with failsafe routing
+  - Quick Image Generation with Failsafe
+  - Tuned Image with generation (feed input training data/imgs) 
